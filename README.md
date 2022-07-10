@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
+a project to organize your daily tasks.
+when writing a new task and clicking enter, the task will be saved in the browser's local storage, and added to the task list.
+you can mark each task as completed by clicking on the checkbox next to it.
+by clicking on the red button below you will delete all tasks from the list.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
